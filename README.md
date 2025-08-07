@@ -42,6 +42,3 @@
   </p>
 
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snek.svg" alt="snake">
-</div>
