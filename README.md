@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Pança Franco! 👋
 
-<!--
-**Gu1-Fr4nc0/Gu1-Fr4nc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Sou estudante de Engenharia de Computação na <strong>Universidade Tecnológica Federal do Paraná (UTFPR)</strong>, campus Apucarana. 
+  <br>
+  Apaixonado por tecnologia, resolução de problemas e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Minhas Habilidades
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,javascript" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,linux" />
+  </a>
+  </p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO-DO-GITHUB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </p>
+
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snek.svg" alt="snake">
+</div>
