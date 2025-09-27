@@ -1,7 +1,7 @@
 # Olá, Bem vindo ao meu perfil! 👋
 
 <p align="left"> 
-  Me chamo Guilherme Pança Franco, sou estudante de Engenharia de Computação na <strong>Universidade Tecnológica Federal do Paraná (UTFPR)</strong>, campus Apucarana. Atualmente participo na Empresa Junior Therion, e faço parte da equipe de Marketing
+  Me chamo Guilherme Pança Franco, sou estudante de Engenharia de Computação na <strong>Universidade Tecnológica Federal do Paraná (UTFPR)</strong>, campus Apucarana. Atualmente participo na Empresa Junior Therion, e faço parte da equipe de Marketing.
    <br>
   Apaixonado por tecnologia, resolução de problemas e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
 </p>
