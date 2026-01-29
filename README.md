@@ -1,44 +1,62 @@
-# Olá, Bem vindo ao meu perfil! 👋
+# Guilherme Pança Franco
 
-<p align="left"> 
-  Me chamo Guilherme Pança Franco, sou estudante de Engenharia de Computação na <strong>Universidade Tecnológica Federal do Paraná (UTFPR)</strong>, campus Apucarana. Atualmente participo na Empresa Junior Therion, e faço parte da equipe de Marketing.
-   <br>
-  Apaixonado por tecnologia, resolução de problemas e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.
+🎓 Estudante de Engenharia de Computação na **UTFPR – Apucarana**  
+🔍 Foco em **Visão Computacional, Processamento de Imagens e IA Aplicada**
+
+Sou estudante de engenharia com interesse em transformar modelos de Visão Computacional e Machine Learning em soluções práticas, especialmente em **cenários industriais e de tempo real**.  
+Atualmente desenvolvo projetos acadêmicos e de portfólio envolvendo **detecção de anomalias, classificação visual e execução em edge devices**, além de participar de uma Iniciação Científica na área de IA.
+
+Meu objetivo é atuar como **estagiário em equipes de dados, IA ou visão computacional**, contribuindo tanto na modelagem quanto na integração com sistemas reais.
+
+---
+
+## 🧠 Áreas de Interesse
+- Visão Computacional
+- Processamento de Imagens
+- Machine Learning aplicado
+- Detecção de Anomalias em Imagens
+- Edge Computing (Raspberry Pi)
+
+---
+
+## 🛠️ Stack Técnica
+
+**Linguagens principais**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
+**Ferramentas e tecnologias**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,mysql,react" />
+</p>
+
+> Python é utilizado como principal linguagem para projetos de IA e Visão Computacional.
+
 ---
 
-### 🚀 Minhas Habilidades
+## 🚀 Projetos em Destaque
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,javascript" />
+🔹 **Detecção de Anomalias em Imagens Industriais**  
+Projeto focado na identificação de defeitos em componentes eletrônicos utilizando técnicas de Visão Computacional e Deep Learning.
+
+🔹 **Few-Shot Learning para Classificação Visual**  
+Implementação de modelos capazes de generalizar classes com poucas amostras, utilizando dataset customizado de componentes/ferramentas.
+
+🔹 **Visão Computacional em Tempo Real com Raspberry Pi**  
+Pipeline otimizado para inferência em edge device, com análise de latência, FPS e trade-offs entre desempenho e acurácia.
+
+👉 Detalhes técnicos, resultados e decisões de projeto estão documentados nos repositórios.
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/guilherme-panca-franco-60a80a360" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c" />
+  <a href="mailto:guilhermefranco.2003@alunos.utfpr.edu.br">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,linux" />
-  </a>
-  </p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/Gu1-Fr4nc0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu1-Fr4nc0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1-Fr4nc0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-### 📫 Onde me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-panca-franco-60a80a360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="guilhermefranco.2003@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>
-
----
+</p>
