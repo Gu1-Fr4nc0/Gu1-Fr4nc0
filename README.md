@@ -1,7 +1,7 @@
-# Guilherme Pança Franco
 
-🎓 Estudante de Engenharia de Computação na **UTFPR – Apucarana**  
-🔍 Foco em **Visão Computacional, Processamento de Imagens e IA Aplicada**
+# 🎓 Estudante de Engenharia de Computação na **UTFPR – Apucarana**  
+
+# 🔍 Foco em **Visão Computacional, Processamento de Imagens e IA Aplicada**
 
 Sou estudante de engenharia com interesse em transformar modelos de Visão Computacional e Machine Learning em soluções práticas, especialmente em **cenários industriais e de tempo real**.  
 Atualmente desenvolvo projetos acadêmicos e de portfólio envolvendo **detecção de anomalias, classificação visual e execução em edge devices**, além de participar de uma Iniciação Científica na área de IA.
